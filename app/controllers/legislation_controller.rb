@@ -9,4 +9,8 @@ class LegislationController < ApplicationController
   def support_linux
     
   end
+  
+  def tech_name
+    
+  end
 end
