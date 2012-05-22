@@ -13,4 +13,8 @@ class LegislationController < ApplicationController
   def tech_name
     
   end
+  
+  def congress_compatibility
+    
+  end
 end
