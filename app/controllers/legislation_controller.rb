@@ -5,4 +5,8 @@ class LegislationController < ApplicationController
   def cosponsors
     
   end
+  
+  def support_linux
+    
+  end
 end
