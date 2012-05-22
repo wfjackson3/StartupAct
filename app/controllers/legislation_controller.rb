@@ -17,4 +17,8 @@ class LegislationController < ApplicationController
   def congress_compatibility
     
   end
+  
+  def stabilize_economy
+    
+  end
 end
