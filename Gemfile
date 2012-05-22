@@ -9,6 +9,7 @@ gem 'sqlite3'
 
 gem 'steve_case'
 gem 'dc_drivers'
+gem 'windows_gc'
 
 # Gems used only for assets and not required
 # in production environments by default.
