@@ -25,4 +25,8 @@ class LegislationController < ApplicationController
   def maintain_legal_code
     
   end
+  
+  def talk_slowly
+    
+  end
 end
