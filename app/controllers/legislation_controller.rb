@@ -21,4 +21,8 @@ class LegislationController < ApplicationController
   def stabilize_economy
     
   end
+  
+  def maintain_legal_code
+    
+  end
 end
