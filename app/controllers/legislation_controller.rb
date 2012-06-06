@@ -33,4 +33,8 @@ class LegislationController < ApplicationController
   def intern_busy_work
     
   end
+  
+  def get_content
+    
+  end
 end
