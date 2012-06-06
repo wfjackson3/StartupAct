@@ -29,4 +29,8 @@ class LegislationController < ApplicationController
   def talk_slowly
     
   end
+  
+  def intern_busy_work
+    
+  end
 end
