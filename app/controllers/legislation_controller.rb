@@ -37,4 +37,8 @@ class LegislationController < ApplicationController
   def get_content
     
   end
+  
+  def anti_blowhard
+    
+  end
 end
