@@ -41,4 +41,8 @@ class LegislationController < ApplicationController
   def anti_blowhard
     
   end
+  
+  def justify_employment
+    
+  end
 end
